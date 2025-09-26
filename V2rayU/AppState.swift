@@ -1,7 +1,7 @@
 import Combine
 import SwiftUI
-
 enum RunMode: String, CaseIterable {
+
     case global
     case off
     case manual
